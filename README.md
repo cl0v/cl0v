@@ -20,3 +20,5 @@
 
  
 </div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="cl0v" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://py.linkedin.com/in/cl0v?trk=profile-badge">Marcelo Fernandes Viana</a></div>
+              
